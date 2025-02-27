@@ -34,21 +34,22 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 6rem;
-    height: 50vh;
+    /* padding: 1rem; */
+    height: 25vh;
 }
   .contents h1 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: white;
-    letter-spacing: 1rem;
+    /* letter-spacing: 1rem; */
     font-weight: 500;
-    padding: 2rem 0;
-    font-size: 2rem;
+    padding: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
 }
   .video {
     position: absolute;
     z-index: -1;
-    height: 75%;
+    height: 25%;
     width: 100%;
     object-fit: cover;
   }
@@ -59,3 +60,4 @@
     justify-content: center;
   }
 } */
+
