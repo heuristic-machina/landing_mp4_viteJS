@@ -13,7 +13,7 @@ const App = () => {
         <Header />
         <Home />
         <Card />
-        <h1 className='mt-8 text-2xl text-center mb-8'>Digitize Your Business</h1>
+        <h1 className='mt-28 text-2xl text-center mb-8'>Digitize Your Business</h1>
         <img className='rounded-md' src="https://www.shutterstock.com/shutterstock/videos/3705393675/thumb/10.jpg?ip=x480" alt='' />
         <Section1 />
         <Section2 />

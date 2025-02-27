@@ -17,12 +17,13 @@
   .card {
     /* display: block; */
     /* overflow: hidden; */
+    margin-top: 10px;
     margin-bottom: 8px;
     padding: 8px;
     align-items: center;
     justify-content: center;
-    width: 300px;
-    height: 315px;
+    width: 400px;
+    height: 185px;
     border-radius: 8px;
     border: 0.7px solid gray;
     box-shadow: 0 4px 10px 2px,
@@ -34,12 +35,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-shadow: 1px 1px 1px black;
     /* padding: 1rem; */
-    height: 25vh;
+    height: 35vh;
 }
   .contents h1 {
     /* text-transform: uppercase; */
-    color: white;
+    /* color: black; */
     /* letter-spacing: 1rem; */
     font-weight: 500;
     padding: 2rem;
@@ -49,7 +51,7 @@
   .video {
     position: absolute;
     z-index: -1;
-    height: 25%;
+    height: 75%;
     width: 100%;
     object-fit: cover;
   }
