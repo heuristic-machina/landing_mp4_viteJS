@@ -1,7 +1,7 @@
 const Card = () => {
     return(
-        <div className="flex flex-row justify-evenly">
-            <div className="card bg-slate-50">
+        <div className="flex flex-row justify-evenly">            
+        <div className="card bg-slate-50 sm-mx-28">
                 <div className='grid grid-row-2'>
                     <h5 className="text-center text-white bg-black">Machinery</h5>
                     <h5 className="text-center text-white bg-black">MARKETPLACE</h5>

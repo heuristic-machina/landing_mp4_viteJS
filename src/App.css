@@ -9,14 +9,20 @@
 }
 
 
-/* * {
+* {
   font-family: "Times New Roman", Times, serif;
-}*/
+}
+
+@media (max-width: 640px) {
+  .card {
+    width: 100%;
+  }
+}
 
 @layer components {
   .card {
-    /* display: block; */
-    /* overflow: hidden; */
+    display: block;
+    overflow: hidden;
     margin-top: 10px;
     margin-bottom: 8px;
     padding: 8px;
