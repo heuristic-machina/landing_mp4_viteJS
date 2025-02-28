@@ -4,7 +4,7 @@ import Section1 from './components/section1'
 import Section2 from './components/section2'
 import Header from './components/header'
 import Card from './components/card'
-
+import Footer from './components/footer'
 
 const App = () => {
   return ( 
@@ -18,6 +18,7 @@ const App = () => {
         <Section1 />
         <Section2 />
       </div>
+      <Footer />
   </>
   )
 };

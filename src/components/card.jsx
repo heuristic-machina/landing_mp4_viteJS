@@ -6,7 +6,7 @@ const Card = () => {
                     <h5 className="text-center text-white bg-black">Machinery</h5>
                     <h5 className="text-center text-white bg-black">MARKETPLACE</h5>
                 </div>
-                <p className='px-4'>We connect special machinery, equipment and service provider with the global manufacturing industry.</p>
+                <p className='px-4 mt-2'>We connect special machinery, equipment and service provider with the global manufacturing industry.</p>
                 <div className="flex justify-center">
                     <button 
                     type='button' 
@@ -21,7 +21,7 @@ const Card = () => {
                 <h5 className="text-center text-white bg-black">Consultant</h5>
                 <h5 className="text-center text-white bg-black">MARKETPLACE</h5>
             </div>
-                <p className='px-4'>We connect consultants, coaches, and experts with the global manufacturing industry.</p>
+                <p className='px-4 mt-2'>We connect consultants, coaches, and experts with the global manufacturing industry.</p>
                 <div className="flex justify-center">
                     <button 
                     type='button' 
